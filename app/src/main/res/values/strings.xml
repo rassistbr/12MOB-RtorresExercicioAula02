@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jogo de Dados</string>
+    <string name="lblJogador">Jogador</string>
+    <string name="lblPC">Computador</string>
+    <string name="btnLabelJogar">Jogar</string>
+    <string name="lblVencedor">Vencedor</string>
+</resources>
